@@ -1,6 +1,6 @@
 # Photo Pexel
 
-<p><img  src="https://i.ibb.co/jwgcQQj/Banner.png"/></p>
+<p><img  src="https://i.ibb.co/X5ShKKG/Banner.png"/></p>
 
 Photo pexels is a Photo Editor App, that consume  / get photos from Pexels API.
 
